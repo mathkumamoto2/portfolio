@@ -1,0 +1,206 @@
+{
+  "achievements": [
+    {
+      "id": "joc",
+      "title": "第40回 全国JOCジュニアオリンピックカップ 水球競技 準優勝",
+      "org": "日本水泳連盟 / 全国JOCジュニアオリンピックカップ",
+      "date": "第40回大会",
+      "order": 2018,
+      "category": "Sport",
+      "summary": "水球競技で全国大会準優勝。長年の競技経験を通じて、チームで結果を追う姿勢と粘り強さを培った。",
+      "url": "https://aquatics.or.jp/wp/",
+      "linkLabel": "主催団体・水球ページ",
+      "note": "第40回には2017年夏季大会と2018年春季大会があります。該当季節と部門が確認できたら結果ページへのリンクに更新します。"
+    },
+    {
+      "id": "yume",
+      "title": "早解きコロシアム｜熊本大学 夢プロジェクト",
+      "org": "熊本大学 学生ベンチャー夢プロジェクト",
+      "date": "2026 — 現在",
+      "order": 202610,
+      "category": "Product",
+      "summary": "「解く楽しさ」を学びの原動力に変えるアプリケーションを開発中。企画から実装、体験設計まで取り組む。",
+      "url": "https://venture.kuma-u.jp/program/entrepreneurship/yumepro/",
+      "linkLabel": "熊本大学・公式プログラム",
+      "note": "現在開発中。公開できる成果物・デモURLが整い次第、こちらに追加する。"
+    },
+    {
+      "id": "ippo",
+      "title": "熊本版未踏的プロジェクト IPPO 採択",
+      "org": "Digital Olfaction Interface",
+      "date": "2026 — 現在",
+      "order": 202608,
+      "category": "Research",
+      "summary": "複数のセンサーから取得したにおい情報をAIで解析・可視化し、嗅覚に課題を抱える人の生活を支援するシステムを開発。",
+      "url": "https://mitouteki-kumamoto.com/",
+      "linkLabel": "IPPO公式サイト",
+      "note": "研究開発・技術実証を継続中。"
+    },
+    {
+      "id": "riwb",
+      "title": "アプリケーション開発インターン",
+      "org": "株式会社Reweb（リウェビー）",
+      "date": "2026.10 — 現在",
+      "order": 202610,
+      "category": "Engineering",
+      "summary": "アプリケーション開発の実務に参加。チームでの設計・実装・改善を学んでいる。",
+      "url": "https://riwb.org/",
+      "linkLabel": "企業公式サイト",
+      "note": "業務詳細は公開可能な範囲のみ掲載。"
+    },
+    {
+      "id": "sewii",
+      "title": "アプリケーション開発インターン",
+      "org": "ソーイ株式会社",
+      "date": "2026.10 — 現在",
+      "order": 202610,
+      "category": "Engineering",
+      "summary": "熊本を拠点とするアプリ開発企業で、ソフトウェア開発実務に取り組む。",
+      "url": "https://sewii.jp/",
+      "linkLabel": "企業公式サイト",
+      "note": "業務詳細は公開可能な範囲のみ掲載。"
+    },
+    {
+      "id": "llmatch",
+      "title": "LLMatch Season 5",
+      "org": "LLM研究・実装プログラム",
+      "date": "2026.10 — 現在",
+      "order": 202610,
+      "category": "Research",
+      "summary": "大規模言語モデルに関する論文理解、実装、評価に取り組む。",
+      "url": "https://weblab.t.u-tokyo.ac.jp/",
+      "linkLabel": "関連研究室サイト",
+      "note": "Season 5の個別募集ページが確認でき次第、リンクを差し替える。"
+    },
+    {
+      "id": "seimitsu",
+      "title": "長期インターン｜OCR・RAG開発",
+      "org": "株式会社精密編集",
+      "date": "2025.09 — 2026.04",
+      "order": 202509,
+      "category": "Engineering",
+      "summary": "OCR・検索・RAG・永続メモリを組み合わせた知識支援システム「HelixAI」の開発に参加。",
+      "url": "https://one-shot.co.jp/",
+      "linkLabel": "関連企業サイト",
+      "note": "開発成果のうち公開可能な範囲を掲載。関連サイトURLは最終確認が必要。"
+    },
+    {
+      "id": "techbase",
+      "title": "プログラミングインターン｜2週間",
+      "org": "TECH-BASE",
+      "date": "2週間",
+      "order": 202606,
+      "category": "Engineering",
+      "summary": "短期の開発演習を通してWebアプリケーションを制作。",
+      "url": "https://tech-base.net/",
+      "linkLabel": "プログラム公式サイト",
+      "note": "参加日程は確認後に追記。"
+    },
+    {
+      "id": "sojo",
+      "title": "ビジネスプランコンテスト 審査員特別賞",
+      "org": "崇城大学｜早解きコロシアム",
+      "date": "2025",
+      "order": 202512,
+      "category": "Award",
+      "summary": "「解く楽しさが、学びの主力になるアプリ」を提案し、審査員特別賞を受賞。",
+      "url": "https://www.sojo-u.ac.jp/news/media/2025/251219_006732.html",
+      "linkLabel": "主催大学の結果ページ",
+      "note": ""
+    },
+    {
+      "id": "physical",
+      "title": "Physical AI 基礎講座 修了",
+      "org": "東京大学 松尾・岩澤研究室",
+      "date": "2026",
+      "order": 202609,
+      "category": "Research",
+      "summary": "模倣学習・強化学習・実世界のAIシステムについて学習。",
+      "url": "https://weblab.t.u-tokyo.ac.jp/",
+      "linkLabel": "研究室公式サイト",
+      "note": ""
+    },
+    {
+      "id": "taiwan",
+      "title": "第14回 日台学生会議｜実行委員長",
+      "org": "日台学生会議",
+      "date": "2026",
+      "order": 202608,
+      "category": "Leadership",
+      "summary": "学生による国際交流プログラムを実行委員長として推進。",
+      "url": "https://asiamideastresearch.jp/",
+      "linkLabel": "関連団体サイト",
+      "note": ""
+    },
+    {
+      "id": "jasc",
+      "title": "第77回 日米学生会議｜熊本サイト実行委員",
+      "org": "日米学生会議",
+      "date": "2025",
+      "order": 202508,
+      "category": "Leadership",
+      "summary": "熊本サイトの企画・運営に参加し、国際的な学生交流を支えた。",
+      "url": "https://jasciec.jp/77th/schedule/",
+      "linkLabel": "第77回・会議日程",
+      "note": ""
+    },
+    {
+      "id": "asia",
+      "title": "第3回 アジア学生交流会議｜実行委員・技術部",
+      "org": "アジア学生交流会議",
+      "date": "2026 — 現在",
+      "order": 202610,
+      "category": "Leadership",
+      "summary": "技術担当を兼ねる実行委員として、国際交流活動の運営に携わる。",
+      "url": "https://asiamideastresearch.jp/",
+      "linkLabel": "関連団体サイト",
+      "note": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": "olfaction",
+      "number": "01",
+      "type": "SENSING × AI",
+      "title": "Digital Olfaction Interface",
+      "subtitle": "見えない「におい」を、情報にする。",
+      "description": "生活臭の検知と強度の可視化に取り組む。ESP32と複数のガスセンサー、データ分析・機械学習を接続する研究開発。",
+      "url": "https://mitouteki-kumamoto.com/",
+      "linkLabel": "IPPO公式サイト",
+      "status": "開発中"
+    },
+    {
+      "id": "hayatoki",
+      "number": "02",
+      "type": "EDTECH × PRODUCT",
+      "title": "早解きコロシアム",
+      "subtitle": "問題を解くことを、競技にする。",
+      "description": "熊本大学「夢プロジェクト」で開発中。スピードと楽しさを通じて学びの体験をつくるアプリケーション。",
+      "url": "https://venture.kuma-u.jp/program/entrepreneurship/yumepro/",
+      "linkLabel": "熊本大学・夢プロ",
+      "status": "開発中"
+    },
+    {
+      "id": "riscv",
+      "number": "03",
+      "type": "COMPUTER ARCHITECTURE",
+      "title": "RISC-V Processor Study",
+      "subtitle": "速さを、回路から考える。",
+      "description": "2段・5段パイプラインの設計と、CPI・実行時間・電力・エネルギーの比較評価を実施。",
+      "url": "https://github.com/mathkumamoto",
+      "linkLabel": "GitHubプロフィール",
+      "status": "実験実績"
+    },
+    {
+      "id": "helix",
+      "number": "04",
+      "type": "OCR × KNOWLEDGE SYSTEM",
+      "title": "HelixAI",
+      "subtitle": "知識を、使える形に。",
+      "description": "株式会社精密編集でのインターン内開発。OCR・RAG・永続メモリを統合した知識支援システム。",
+      "url": "https://one-shot.co.jp/",
+      "linkLabel": "関連企業サイト",
+      "status": "実務経験"
+    }
+  ]
+}
